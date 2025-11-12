@@ -103,7 +103,7 @@ License
 
 >> NOTE: the music tracks included in this project are royalty free resources paid for and licensed
 from [Lucky Lion Studios](http://luckylionstudios.com/). They are licensed ONLY for use in this
-project and should not be reproduced.
+project and should not be reproduced..
 
 >> NOTE: the sprite graphics are placeholder graphics [borrowed](http://pixel.garoux.net/game/44) from the old
 genesis version of outrun and used here as teaching examples. If there are any pixel artists out there who want to 
